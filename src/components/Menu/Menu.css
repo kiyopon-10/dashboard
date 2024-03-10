@@ -1,0 +1,35 @@
+.menu-main {
+    /* position: relative; */
+    height: 97vh;
+    width: 16vw;
+}
+
+.options{
+    position: relative;
+    top: 12vh;
+    /* margin-inline: 1vw; */
+    height: 45vh;
+    /* display: flex; */
+    /* flex-direction: column; */
+    /* justify-content: center; */
+    /* align-items: center; */
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    position: relative;
+    left: 2px;
+}
+
+.option-each p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 0.97rem;
+    color: #737b7b;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+}
